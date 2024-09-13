@@ -1,13 +1,7 @@
 import Link from "next/link";
 import { Avatar, AvatarImage } from "../ui/avatar";
-import {
-	Card,
-	CardContent,
-	CardFooter,
-	CardHeader,
-	CardTitle,
-} from "../ui/card";
-import { Globe, Linkedin, LucideGithub, X } from "lucide-react";
+import { Card, CardContent, CardHeader, CardTitle } from "../ui/card";
+import { Globe, Linkedin, LucideGithub } from "lucide-react";
 import { TwitterLogoIcon } from "@radix-ui/react-icons";
 import ZambiaFlag from "@/app/assets/images/zambia.png";
 import NigeriaFlag from "@/app/assets/images/nigeria.png";
