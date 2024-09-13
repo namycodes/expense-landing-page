@@ -109,7 +109,7 @@ export default function About() {
 								Mubila
 							</cite>
 						</p>
-						<Link href={""}>
+						<Link href={"https://github.com/namycodes/expense-landing-page"}>
 							<Button variant={"outline"} className="border border-blue-300">
 								View Source Code
 							</Button>
