@@ -4,7 +4,7 @@ import { nunito_sans } from "@/app/assets/fonts/fonts";
 import { Button } from "../ui/button";
 export default function ProjectAbout() {
 	return (
-		<div className="flex justify-around px-5 w-full">
+		<div className="flex justify-around px-5 w-full" id="projectAbout">
 			<div className="flex-1 w-full">
 				<Image
 					quality={100}

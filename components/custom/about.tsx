@@ -69,7 +69,7 @@ export default function About() {
 		},
 	];
 	return (
-		<div className="p-10 flex flex-col gap-3">
+		<div className="p-10 flex flex-col gap-3 " id="blog-about">
 			<h1 className="text-4xl">About Us</h1>
 			<div className="border-b border-blue-400 p-1 h-2" />
 			<div className="flex">
